@@ -15,6 +15,7 @@ jQuery(document).ready(function() {
                 console.log(response);
                 if (response.success == 1) {
                     jQuery("#show_upload_message").text(response.data.message).css("color", "green");
+                    jQuery("#frm_csv_data_uploader")[0].reset();
                 }else{
                     jQuery("#show_upload_message").text(response.data.message).css("color", "red");
                 }   

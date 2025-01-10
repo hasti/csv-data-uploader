@@ -1,6 +1,6 @@
 id,name,email,age,phone,photo
-1,"john deo","john.deo@gmail.com",40,1234567890,john.jpg
-2,"Ashly R","ashlyr@gmail.com",14,1233467890,ashlyr.jpg
-3,"Mike Clinton","mikeycl@gmail.com",39,1234555890,mikeycl.jpg
-4,"Google Microsoft","mcmail@gmail.com",36,1234888890,Google.jpg
-5,"Nvida Chip","nvidachip@gmail.com",15,12133456890,nvidachip.jpg
+,"john deo","john.deo@gmail.com",40,1234567890,john.jpg
+,"Ashly R","ashlyr@gmail.com",14,1233467890,ashlyr.jpg
+,"Mike Clinton","mikeycl@gmail.com",39,1234555890,mikeycl.jpg
+,"Google Microsoft","mcmail@gmail.com",36,1234888890,Google.jpg
+,"Nvida Chip","nvidachip@gmail.com",15,12133456890,nvidachip.jpg
